@@ -7,7 +7,7 @@ PixelMagic is a command-line tool for applying various filters to bitmap images.
 - **Multiple Filters**: Apply different filters including sepia, black and white, and color inversion.
 - **Command-Line Interface**: Easy-to-use command-line interface for quick operations.
 - **Custom Input and Output**: Specify your own input and output file paths for flexibility.
-- **Extensible Design**: Inherintace, the program modular design makes it easy to add new filters.
+- **Extensible Design**: Inheritance, the program modular design makes it easy to add new filters.
 
 ## Getting Started
 ### Prerequisites
@@ -17,7 +17,7 @@ PixelMagic is a command-line tool for applying various filters to bitmap images.
 - Clone the repository to your local machine.
 - Build the solution using Visual Studio 
 - Run Debug mode to run the test.
-- Run Realese to run the actuall program.
+- Run Release to run the actuall program.
 
 ## Topics Checklist
 PixelMagic utilizes core programming concepts and features, ensuring a straightforward and educational codebase:
